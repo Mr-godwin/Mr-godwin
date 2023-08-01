@@ -14,7 +14,7 @@
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Mr-godwin&style=flat-square&color=blue" alt=""/>
-
+<hr>
 <h1>
   Hello there; Am here to code and make a living. 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
